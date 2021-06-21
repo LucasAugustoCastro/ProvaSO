@@ -5,10 +5,10 @@ $estudante = "Lucas Augusto de Castro Coelho";
 
 $dia = date("d/m/Y");
 $hora = date("h:i:sa");
-echo "Mostrando com echo<br>";
-echo "Atividade: {$nomeAtividade} <br>";
-echo "Nome Estudande: {$nomeUsuario} <br>";
-echo "Data: {$dia} e hora: {$hora} <br>";
+// echo "Mostrando com echo<br>";
+// echo "Atividade: {$nomeAtividade} <br>";
+// echo "Nome Estudande: {$nomeUsuario} <br>";
+// echo "Data: {$dia} e hora: {$hora} <br>";
 ?>
 
 <!DOCTYPE html>
